@@ -1,0 +1,16 @@
+
+#hero,
+#projects {
+    margin-bottom: 180px !important;
+}
+
+#hero > .container {
+    border-radius: 5px;
+}
+
+#projects {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+.card-body {
+    text-align: center;
+}
